@@ -12,6 +12,14 @@ Para usar este template, entre neste repositório de *back  end* para conseguir 
 https://github.com/JoaoEdu1/M6-S1-Tech-BackEnd
 ```
 
+## Running the app
+
+```bash
+$ npm run dev
+```
+
+## React
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
